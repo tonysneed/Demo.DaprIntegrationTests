@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.DaprIntegrationTests", "Demo.DaprIntegrationTests\Demo.DaprIntegrationTests.csproj", "{FA86666C-58D1-450A-AB27-5607E38155FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C64A890B-FEAE-4F68-A2F1-864FB3BCE2FF}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA86666C-58D1-450A-AB27-5607E38155FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA86666C-58D1-450A-AB27-5607E38155FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA86666C-58D1-450A-AB27-5607E38155FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA86666C-58D1-450A-AB27-5607E38155FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29DB1A22-FBE2-4BE0-AF6C-F9C854C56813}
+	EndGlobalSection
+EndGlobal
